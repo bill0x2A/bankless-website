@@ -28,7 +28,7 @@ class Section1 extends React.Component {
 
         <Underline />
 
-        <Text><chakra.span fontSize='xl' color='gray.500' background='none'>We’re Headed West...</chakra.span> Join Us</Text>      
+        <Text fontWeight={700}><chakra.span fontSize='xl' color='gray.500' background='none'>We’re Headed West...</chakra.span> Join Us</Text>      
 
         <HStack spacing='58px' width='100%' justifyContent='center' display={{ base: 'none', sm: 'flex'}}>
           <Link fontSize='2xl' href='https://forum.bankless.community/t/banklessdao-white-paper/3130'>Whitepaper</Link>

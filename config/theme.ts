@@ -40,6 +40,9 @@ const theme = extendTheme(
         800: '#6C6C6C',
         900: '#565656',
       },
+      gray: {
+        500: '#929192',
+      },
       black: '#101010',
       /* Color Scale generated using https://color-scheme-builder.vercel.app/ */
       red: {
