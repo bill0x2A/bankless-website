@@ -57,6 +57,10 @@ const theme = extendTheme(
         900: '#560606',
       },
     },
+    fonts: {
+      heading: 'Clear Sans, sans-serif',
+      body: 'Clear Sans, sans-serif',
+    },
     fontSizes: {
       xs: '0.75rem', // 12px
       sm: '0.875rem', // 14px
